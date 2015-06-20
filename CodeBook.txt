@@ -1,0 +1,113 @@
+activity
+  Six activities performed by each person
+	lay
+	sit
+	stand
+	walk
+	walkDown
+	walkUpstairs
+
+tBodyAccMean
+ Group average of the means from body acceleration signals (time) across all 3 directions. 
+
+tBodyAccStd
+ Group average of the standard deviations from body acclearation signals  (time) across all 3 directions
+
+tGravityAccMean
+ Group average of the means from gravity acceleration signals (time) across all 3 directions
+
+tGravityAccStd
+ Group group of the standard deviations from gravity acceleration signals (time) across all 3 directions
+
+tBodyAccJerkMean
+  Group average of the means from body acceleration jerk signals  (time) across all 3 directions
+
+tBodyAccJerkStd
+  Group average of the standard deviations from body acceleration jerk signals (time) across all 3 directions
+
+tBodyGyroMean
+ Group average of the means from gyroscope signals (time) across all 3 directions. 
+
+tBodyGyroStd
+ Group average of the standard deviations from gyroscope signals (time) across all 3 directions. 
+
+tBodyGyroJerkMean
+ Group average of the means from gyroscope jerk signals (time) across all 3 directions. 
+
+tBodyGyroJerkStd
+ Group average of the standard deviations from gyroscope jerk signals (time) across all 3 directions.   
+
+fBodyAccMean
+ Group average of the means from body acceleration signals (Fast Fourier Transform) across all 3 directions. 
+
+fBodyAccStd
+ Group average of the standard deviations from body acceleration signals (Fast Fourier Transform) across all 3 directions. 
+
+fBodyAccJerkMean
+ Group average of the means from body acceleration jerk signals (Fast Fourier Transform) across all 3 directions
+
+fBodyAccJerkStd
+ Group average of the standard deviations from body acceleration jerk signals (Fast Fourier Transform) across all 3 directions
+
+fBodyGyroMean
+ Group average of the means from gyroscope signals (Fast Fourier Transform) across all 3 directions. 
+
+fBodyGyroStd
+ Group average of the standard deviations from gyroscope signals (Fast Fourier Transform) across all 3 directions. 
+
+tBodyAccMagMean
+ Group average of the means from body acceleration signals (magnitude - time) across all 3 directions 
+
+tBodyAccMagStd
+ Group average of the standard deviations from body acceleration signals (magnitude - time) across all 3 directions
+
+tGravityAccMagMean
+ Group average of the means from body acceleration signals (magnitude - time) across all 3 directions 
+
+tGravityAccMagStd
+ Group average of the standard deviations from body acceleration signals (magnitude - time) across all 3 directions 
+
+tBodyAccJerkMagMean
+ Group average of the means from body acceleration jerk signals (magnitude - time) across all 3 directions
+
+tBodyAccJerkMagStd
+ Group average of the standard deviations from body acceleration jerk signals (magnitude - time) across all 3 directions
+
+tBodyGyroMagMean
+ Group average of the means from gyroscope signals (magnitude - time) across all 3 directions. 
+
+tBodyGyroMagStd
+ Group average of the standard deviations from gyroscope signals (magnitude - time) across all 3 directions. 
+
+tBodyGyroJerkMagMean
+ Group average of the means from gyroscope jerk signals (magnitude - time) across all 3 directions. 
+
+tBodyGyroJerkMagStd
+ Group average of the standard deviations from gyroscope jerk signals (magnitude - time) across all 3 directions. 
+
+fBodyAccMagMean
+ Group average of the means from body acceleration signals (magnitude - Fast Fourier Transform) across all 3 directions. 
+
+fBodyAccMagStd
+ Group average of the standard deviatoins from body acceleration signals (magnitude - Fast Fourier Transform) across all 3 directions. 
+
+fBodyBodyAccJerkMagMean
+ Group average of the means from body acceleration jerk signals (magnitude - Fast Fourier Transform) across all 3 directions. 
+
+fBodyBodyAccJerkMagStd
+ Group average of the standard deviations from body acceleration jerk signals (magnitude - Fast Fourier Transform) across all 3 directions. 
+
+fBodyBodyGyroMagMean
+ Group average of the means from body gyroscope signals (magnitude - Fast Fourier Transform) across all 3 directions. 
+
+fBodyBodyGyroMagStd
+  Group average of the standard deviations from body gyroscope signals (magnitude - Fast Fourier Transform) across all 3 directions. 
+
+fBodyBodyGyroJerkMagMean
+ Group average of the means from body gyroscope jerk signals (magnitude - Fast Fourier Transform) across all 3 directions. 
+
+fBodyBodyGyroJerkMagStd
+ Group average of the standard deviations from body gyroscope jerk signals (magnitude - Fast Fourier Transform) across all 3 directions. 
+
+
+	
